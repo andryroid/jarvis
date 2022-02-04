@@ -1,0 +1,68 @@
+C:\Users\Andry\AppData\Local\Temporary Projects\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe.config
+C:\Users\Andry\AppData\Local\Temporary Projects\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe
+C:\Users\Andry\AppData\Local\Temporary Projects\DemoRecoVocale\bin\Debug\DemoRecoVocale.pdb
+C:\Users\Andry\AppData\Local\Temporary Projects\DemoRecoVocale\obj\Debug\DemoRecoVocale.Form1.resources
+C:\Users\Andry\AppData\Local\Temporary Projects\DemoRecoVocale\obj\Debug\DemoRecoVocale.Properties.Resources.resources
+C:\Users\Andry\AppData\Local\Temporary Projects\DemoRecoVocale\obj\Debug\DemoRecoVocale.csproj.GenerateResource.Cache
+C:\Users\Andry\AppData\Local\Temporary Projects\DemoRecoVocale\obj\Debug\DemoRecoVocale.exe
+C:\Users\Andry\AppData\Local\Temporary Projects\DemoRecoVocale\obj\Debug\DemoRecoVocale.pdb
+C:\Users\Andry\AppData\Local\Temporary Projects\DemoRecoVocale\bin\Debug\Grammaire.grxml
+C:\Users\Andry\Desktop\crypto\DemoRecoVocale\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe.config
+C:\Users\Andry\Desktop\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.exe
+C:\Users\Andry\Desktop\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.pdb
+C:\Users\Andry\Desktop\crypto\DemoRecoVocale\DemoRecoVocale\bin\Debug\Grammaire.grxml
+C:\Users\Andry\Desktop\crypto\DemoRecoVocale\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe
+C:\Users\Andry\Desktop\crypto\DemoRecoVocale\DemoRecoVocale\bin\Debug\DemoRecoVocale.pdb
+C:\Users\Andry\Desktop\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.csprojResolveAssemblyReference.cache
+C:\Users\Andry\Desktop\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.Form1.resources
+C:\Users\Andry\Desktop\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.Properties.Resources.resources
+C:\Users\Andry\Desktop\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.csproj.GenerateResource.Cache
+I:\crypto\DemoRecoVocale\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe.config
+I:\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.exe
+I:\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.pdb
+I:\crypto\DemoRecoVocale\DemoRecoVocale\bin\Debug\Grammaire.grxml
+I:\crypto\DemoRecoVocale\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe
+I:\crypto\DemoRecoVocale\DemoRecoVocale\bin\Debug\DemoRecoVocale.pdb
+I:\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.csprojResolveAssemblyReference.cache
+I:\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.Form1.resources
+I:\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.Properties.Resources.resources
+I:\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.csproj.GenerateResource.Cache
+H:\crypto\DemoRecoVocale\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe.config
+H:\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.exe
+H:\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.pdb
+H:\crypto\DemoRecoVocale\DemoRecoVocale\bin\Debug\Grammaire.grxml
+H:\crypto\DemoRecoVocale\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe
+H:\crypto\DemoRecoVocale\DemoRecoVocale\bin\Debug\DemoRecoVocale.pdb
+H:\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.csprojResolveAssemblyReference.cache
+H:\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.Form1.resources
+H:\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.Properties.Resources.resources
+H:\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.csproj.GenerateResource.Cache
+H:\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.Form3.resources
+H:\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.Form2.resources
+C:\Users\njiva\Desktop\crypto\DemoRecoVocale\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe.config
+C:\Users\njiva\Desktop\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.exe
+C:\Users\njiva\Desktop\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.pdb
+C:\Users\njiva\Desktop\crypto\DemoRecoVocale\DemoRecoVocale\bin\Debug\Grammaire.grxml
+C:\Users\njiva\Desktop\crypto\DemoRecoVocale\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe
+C:\Users\njiva\Desktop\crypto\DemoRecoVocale\DemoRecoVocale\bin\Debug\DemoRecoVocale.pdb
+C:\Users\njiva\Desktop\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.csprojResolveAssemblyReference.cache
+C:\Users\njiva\Desktop\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.Form1.resources
+C:\Users\njiva\Desktop\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.Form2.resources
+C:\Users\njiva\Desktop\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.Form3.resources
+C:\Users\njiva\Desktop\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.Properties.Resources.resources
+C:\Users\njiva\Desktop\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.csproj.GenerateResource.Cache
+C:\Users\njiva\Desktop\pro\crypto\DemoRecoVocale\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe.config
+C:\Users\njiva\Desktop\pro\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.exe
+C:\Users\njiva\Desktop\pro\crypto\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.pdb
+C:\Users\User\Desktop\DemoRecoVocale\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe.config
+C:\Users\User\Desktop\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.exe
+C:\Users\User\Desktop\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.pdb
+C:\Users\User\Desktop\DemoRecoVocale\DemoRecoVocale\bin\Debug\Grammaire.grxml
+C:\Users\User\Desktop\DemoRecoVocale\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe
+C:\Users\User\Desktop\DemoRecoVocale\DemoRecoVocale\bin\Debug\DemoRecoVocale.pdb
+C:\Users\User\Desktop\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.Form1.resources
+C:\Users\User\Desktop\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.Form2.resources
+C:\Users\User\Desktop\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.Form3.resources
+C:\Users\User\Desktop\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.Properties.Resources.resources
+C:\Users\User\Desktop\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.csproj.GenerateResource.Cache

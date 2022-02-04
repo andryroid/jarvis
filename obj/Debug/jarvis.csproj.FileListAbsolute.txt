@@ -1,0 +1,215 @@
+C:\Users\User\Desktop\DemoRecoVocale\DemoRecoVocale\bin\Debug\Grammaire.grxml
+C:\Users\User\Desktop\DemoRecoVocale\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe.config
+C:\Users\User\Desktop\DemoRecoVocale\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe
+C:\Users\User\Desktop\DemoRecoVocale\DemoRecoVocale\bin\Debug\DemoRecoVocale.pdb
+C:\Users\User\Desktop\DemoRecoVocale\DemoRecoVocale\obj\Debug\jarvis.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DemoRecoVocale\DemoRecoVocale\obj\Debug\jarvis.Form1.resources
+C:\Users\User\Desktop\DemoRecoVocale\DemoRecoVocale\obj\Debug\jarvis.Form2.resources
+C:\Users\User\Desktop\DemoRecoVocale\DemoRecoVocale\obj\Debug\jarvis.Form3.resources
+C:\Users\User\Desktop\DemoRecoVocale\DemoRecoVocale\obj\Debug\jarvis.Properties.Resources.resources
+C:\Users\User\Desktop\DemoRecoVocale\DemoRecoVocale\obj\Debug\jarvis.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.exe
+C:\Users\User\Desktop\DemoRecoVocale\DemoRecoVocale\obj\Debug\DemoRecoVocale.pdb
+C:\Users\User\Desktop\jarvis 1.0\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe.config
+C:\Users\User\Desktop\jarvis 1.0\DemoRecoVocale\obj\Debug\DemoRecoVocale.exe
+C:\Users\User\Desktop\jarvis 1.0\DemoRecoVocale\obj\Debug\DemoRecoVocale.pdb
+C:\Users\User\Desktop\jarvis 1.0\DemoRecoVocale\bin\Debug\Grammaire.grxml
+C:\Users\User\Desktop\jarvis 1.0\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe
+C:\Users\User\Desktop\jarvis 1.0\DemoRecoVocale\bin\Debug\DemoRecoVocale.pdb
+C:\Users\User\Desktop\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.Form1.resources
+C:\Users\User\Desktop\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.Form2.resources
+C:\Users\User\Desktop\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.Form3.resources
+C:\Users\User\Desktop\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.Properties.Resources.resources
+C:\Users\User\Desktop\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\jarvis 1.0\DemoRecoVocale\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\jarvis 1.0\DemoRecoVocale\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\jarvis 1.0\DemoRecoVocale\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\jarvis 1.0\DemoRecoVocale\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.csproj.ResolveComReference.cache
+H:\jarvis 1.0\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe.config
+H:\jarvis 1.0\DemoRecoVocale\obj\Debug\Interop.WMPLib.dll
+H:\jarvis 1.0\DemoRecoVocale\obj\Debug\AxInterop.WMPLib.dll
+H:\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.csproj.ResolveComReference.cache
+H:\jarvis 1.0\DemoRecoVocale\obj\Debug\DemoRecoVocale.exe
+H:\jarvis 1.0\DemoRecoVocale\obj\Debug\DemoRecoVocale.pdb
+G:\jarvis 1.0\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe.config
+G:\jarvis 1.0\DemoRecoVocale\obj\Debug\Interop.WMPLib.dll
+G:\jarvis 1.0\DemoRecoVocale\obj\Debug\AxInterop.WMPLib.dll
+G:\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.csproj.ResolveComReference.cache
+G:\jarvis 1.0\DemoRecoVocale\obj\Debug\DemoRecoVocale.exe
+G:\jarvis 1.0\DemoRecoVocale\obj\Debug\DemoRecoVocale.pdb
+G:\jarvis 1.0\DemoRecoVocale\bin\Debug\Grammaire.grxml
+G:\jarvis 1.0\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe
+G:\jarvis 1.0\DemoRecoVocale\bin\Debug\DemoRecoVocale.pdb
+G:\jarvis 1.0\DemoRecoVocale\bin\Debug\Interop.WMPLib.dll
+G:\jarvis 1.0\DemoRecoVocale\bin\Debug\AxInterop.WMPLib.dll
+G:\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.csprojResolveAssemblyReference.cache
+G:\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.Form1.resources
+G:\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.Form2.resources
+G:\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.Form3.resources
+G:\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.Properties.Resources.resources
+G:\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.csproj.GenerateResource.Cache
+C:\Users\njiva\Desktop\jarvis 1.0\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe.config
+C:\Users\njiva\Desktop\jarvis 1.0\DemoRecoVocale\obj\Debug\Interop.WMPLib.dll
+C:\Users\njiva\Desktop\jarvis 1.0\DemoRecoVocale\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\njiva\Desktop\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.csproj.ResolveComReference.cache
+C:\Users\njiva\Desktop\jarvis 1.0\DemoRecoVocale\obj\Debug\DemoRecoVocale.exe
+C:\Users\njiva\Desktop\jarvis 1.0\DemoRecoVocale\obj\Debug\DemoRecoVocale.pdb
+C:\Users\njiva\Desktop\jarvis 1.0\DemoRecoVocale\bin\Debug\Grammaire.grxml
+C:\Users\njiva\Desktop\jarvis 1.0\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe
+C:\Users\njiva\Desktop\jarvis 1.0\DemoRecoVocale\bin\Debug\DemoRecoVocale.pdb
+C:\Users\njiva\Desktop\jarvis 1.0\DemoRecoVocale\bin\Debug\Interop.WMPLib.dll
+C:\Users\njiva\Desktop\jarvis 1.0\DemoRecoVocale\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\njiva\Desktop\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.csprojResolveAssemblyReference.cache
+C:\Users\njiva\Desktop\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.Form1.resources
+C:\Users\njiva\Desktop\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.Form2.resources
+C:\Users\njiva\Desktop\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.Form3.resources
+C:\Users\njiva\Desktop\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.Properties.Resources.resources
+C:\Users\njiva\Desktop\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.csproj.GenerateResource.Cache
+C:\Users\njiva\Desktop\pro\jarvis 1.0\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe.config
+C:\Users\njiva\Desktop\pro\jarvis 1.0\DemoRecoVocale\obj\Debug\Interop.WMPLib.dll
+C:\Users\njiva\Desktop\pro\jarvis 1.0\DemoRecoVocale\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\njiva\Desktop\pro\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.csproj.ResolveComReference.cache
+C:\Users\njiva\Desktop\pro\jarvis 1.0\DemoRecoVocale\obj\Debug\DemoRecoVocale.exe
+C:\Users\njiva\Desktop\pro\jarvis 1.0\DemoRecoVocale\obj\Debug\DemoRecoVocale.pdb
+C:\Users\njiva\Desktop\pro\jarvis 1.0\DemoRecoVocale\bin\Debug\Grammaire.grxml
+C:\Users\njiva\Desktop\pro\jarvis 1.0\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe
+C:\Users\njiva\Desktop\pro\jarvis 1.0\DemoRecoVocale\bin\Debug\DemoRecoVocale.pdb
+C:\Users\njiva\Desktop\pro\jarvis 1.0\DemoRecoVocale\bin\Debug\Interop.WMPLib.dll
+C:\Users\njiva\Desktop\pro\jarvis 1.0\DemoRecoVocale\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\njiva\Desktop\pro\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.csprojResolveAssemblyReference.cache
+C:\Users\njiva\Desktop\pro\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.Form1.resources
+C:\Users\njiva\Desktop\pro\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.Form2.resources
+C:\Users\njiva\Desktop\pro\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.Form3.resources
+C:\Users\njiva\Desktop\pro\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.Properties.Resources.resources
+C:\Users\njiva\Desktop\pro\jarvis 1.0\DemoRecoVocale\obj\Debug\jarvis.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\jarvis 2.0\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe.config
+C:\Users\User\Desktop\jarvis 2.0\DemoRecoVocale\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\jarvis 2.0\DemoRecoVocale\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\jarvis 2.0\DemoRecoVocale\obj\Debug\jarvis.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\jarvis 2.0\DemoRecoVocale\obj\Debug\DemoRecoVocale.exe
+C:\Users\User\Desktop\jarvis 2.0\DemoRecoVocale\obj\Debug\DemoRecoVocale.pdb
+C:\Users\User\Desktop\jarvis 2.0\DemoRecoVocale\bin\Debug\Grammaire.grxml
+C:\Users\User\Desktop\jarvis 2.0\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe
+C:\Users\User\Desktop\jarvis 2.0\DemoRecoVocale\bin\Debug\DemoRecoVocale.pdb
+C:\Users\User\Desktop\jarvis 2.0\DemoRecoVocale\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\jarvis 2.0\DemoRecoVocale\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\jarvis 2.0\DemoRecoVocale\obj\Debug\jarvis.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\jarvis 2.0\DemoRecoVocale\obj\Debug\jarvis.Form1.resources
+C:\Users\User\Desktop\jarvis 2.0\DemoRecoVocale\obj\Debug\jarvis.Form2.resources
+C:\Users\User\Desktop\jarvis 2.0\DemoRecoVocale\obj\Debug\jarvis.Form3.resources
+C:\Users\User\Desktop\jarvis 2.0\DemoRecoVocale\obj\Debug\jarvis.MAINTENANCE.resources
+C:\Users\User\Desktop\jarvis 2.0\DemoRecoVocale\obj\Debug\jarvis.Properties.Resources.resources
+C:\Users\User\Desktop\jarvis 2.0\DemoRecoVocale\obj\Debug\jarvis.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe.config
+C:\Users\User\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\DemoRecoVocale.exe
+C:\Users\User\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\DemoRecoVocale.pdb
+C:\Users\User\Desktop\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\Grammaire.grxml
+C:\Users\User\Desktop\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe
+C:\Users\User\Desktop\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\DemoRecoVocale.pdb
+C:\Users\User\Desktop\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.Form1.resources
+C:\Users\User\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.Form2.resources
+C:\Users\User\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.Form3.resources
+C:\Users\User\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.MAINTENANCE.resources
+C:\Users\User\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.Properties.Resources.resources
+C:\Users\User\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.csproj.GenerateResource.Cache
+F:\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe.config
+F:\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\Interop.WMPLib.dll
+F:\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\AxInterop.WMPLib.dll
+F:\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.csproj.ResolveComReference.cache
+F:\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\DemoRecoVocale.exe
+F:\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\DemoRecoVocale.pdb
+F:\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\Grammaire.grxml
+F:\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe
+F:\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\DemoRecoVocale.pdb
+F:\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\Interop.WMPLib.dll
+F:\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\AxInterop.WMPLib.dll
+F:\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.csprojResolveAssemblyReference.cache
+F:\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.Form1.resources
+F:\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.Form2.resources
+F:\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.Form3.resources
+F:\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.MAINTENANCE.resources
+F:\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.Properties.Resources.resources
+F:\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.csproj.GenerateResource.Cache
+H:\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe.config
+H:\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\Interop.WMPLib.dll
+H:\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\AxInterop.WMPLib.dll
+H:\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.csproj.ResolveComReference.cache
+H:\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\DemoRecoVocale.exe
+H:\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\DemoRecoVocale.pdb
+H:\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\Grammaire.grxml
+H:\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe
+H:\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\DemoRecoVocale.pdb
+H:\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\Interop.WMPLib.dll
+H:\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\AxInterop.WMPLib.dll
+H:\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.csprojResolveAssemblyReference.cache
+H:\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.Form1.resources
+H:\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.Form2.resources
+H:\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.Form3.resources
+H:\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.MAINTENANCE.resources
+H:\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.Properties.Resources.resources
+H:\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.csproj.GenerateResource.Cache
+C:\Users\njiva\Desktop\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe.config
+C:\Users\njiva\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\Interop.WMPLib.dll
+C:\Users\njiva\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\njiva\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.csproj.ResolveComReference.cache
+C:\Users\njiva\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\DemoRecoVocale.exe
+C:\Users\njiva\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\DemoRecoVocale.pdb
+C:\Users\njiva\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.csprojResolveAssemblyReference.cache
+C:\Users\njiva\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.Form1.resources
+C:\Users\njiva\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.Form2.resources
+C:\Users\njiva\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.Form3.resources
+C:\Users\njiva\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.MAINTENANCE.resources
+C:\Users\njiva\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.Properties.Resources.resources
+C:\Users\njiva\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.csproj.GenerateResource.Cache
+C:\Users\njiva\Desktop\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\Grammaire.grxml
+C:\Users\njiva\Desktop\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe
+C:\Users\njiva\Desktop\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\DemoRecoVocale.pdb
+C:\Users\njiva\Desktop\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\Interop.WMPLib.dll
+C:\Users\njiva\Desktop\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\njiva\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.desinst.resources
+D:\Projet\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe.config
+D:\Projet\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\Interop.WMPLib.dll
+D:\Projet\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\AxInterop.WMPLib.dll
+D:\Projet\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.csproj.ResolveComReference.cache
+D:\Projet\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\DemoRecoVocale.exe
+D:\Projet\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\DemoRecoVocale.pdb
+D:\Projet\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\Grammaire.grxml
+D:\Projet\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe
+D:\Projet\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\DemoRecoVocale.pdb
+D:\Projet\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\Interop.WMPLib.dll
+D:\Projet\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\AxInterop.WMPLib.dll
+D:\Projet\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.csprojResolveAssemblyReference.cache
+D:\Projet\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.desinst.resources
+D:\Projet\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.Form1.resources
+D:\Projet\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.Form2.resources
+D:\Projet\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.Form3.resources
+D:\Projet\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.MAINTENANCE.resources
+D:\Projet\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.Properties.Resources.resources
+D:\Projet\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.csproj.GenerateResource.Cache
+C:\Users\Andry\Desktop\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe.config
+C:\Users\Andry\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\Interop.WMPLib.dll
+C:\Users\Andry\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Andry\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.csproj.ResolveComReference.cache
+C:\Users\Andry\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\DemoRecoVocale.exe
+C:\Users\Andry\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\DemoRecoVocale.pdb
+C:\Users\Andry\Desktop\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\Grammaire.grxml
+C:\Users\Andry\Desktop\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\DemoRecoVocale.exe
+C:\Users\Andry\Desktop\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\DemoRecoVocale.pdb
+C:\Users\Andry\Desktop\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\Interop.WMPLib.dll
+C:\Users\Andry\Desktop\jarvis 2.0 - B\DemoRecoVocale\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Andry\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.csprojResolveAssemblyReference.cache
+C:\Users\Andry\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.desinst.resources
+C:\Users\Andry\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.Form1.resources
+C:\Users\Andry\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.Form2.resources
+C:\Users\Andry\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.Form3.resources
+C:\Users\Andry\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.MAINTENANCE.resources
+C:\Users\Andry\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.Properties.Resources.resources
+C:\Users\Andry\Desktop\jarvis 2.0 - B\DemoRecoVocale\obj\Debug\jarvis.csproj.GenerateResource.Cache

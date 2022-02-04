@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<grammar version="1.0" xml:lang="fr-FR" mode="voice" tag-format="semantics-ms/1.0"
+root="mouskie" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="mouskie" scope="public">
+    <ruleref special="GARBAGE" />
+    <one-of>
+      
+      
+      <item>
+        mon repertoire
+        <tag>$.mouskie={}; $.mouskie._value="mon repertoire";</tag>
+      </item>
+      <item>
+        descend
+        <tag>$.mouskie={}; $.mouskie._value="descend";</tag>
+      </item>
+      <item>
+        monte
+        <tag>$.mouskie={}; $.mouskie._value="monte";</tag>
+      </item>
+      <item>
+        gauche
+        <tag>$.mouskie={}; $.mouskie._value="gauche";</tag>
+      </item>
+      <item>
+        droite
+        <tag>$.mouskie={}; $.mouskie._value="droite";</tag>
+      </item>
+      <item>
+       ouvre le fichier
+        <tag>$.mouskie={}; $.mouskie._value="ouvre le fichier";</tag>
+      </item>
+      <item>
+        retour
+        <tag>$.mouskie={}; $.mouskie._value="retour";</tag>
+      </item>
+      <item>
+        mode plein écran
+        <tag>$.mouskie={}; $.mouskie._value="mode plein écran";</tag>
+      </item>
+      <item>
+        tu peut disposer
+        <tag>$.mouskie={}; $.mouskie._value="tu peut disposer";</tag>
+      </item>
+       <item>
+        fermer
+        <tag>$.mouskie={}; $.mouskie._value="fermer";</tag>
+      </item>
+      <item>
+        séléctionner tout
+        <tag>$.mouskie={}; $.mouskie._value="séléctionner tout";</tag>
+      </item>
+      <item>
+        jarvice
+        <tag>$.mouskie={}; $.mouskie._value="jarvice";</tag>
+      </item>
+      <item>
+        augmente le volume
+        <tag>$.mouskie={}; $.mouskie._value="augmente le volume";</tag>
+      </item>
+      <item>
+        merçi
+        <tag>$.mouskie={}; $.mouskie._value="merçi";</tag>
+      </item>
+      <item>
+        encore
+        <tag>$.mouskie={}; $.mouskie._value="encore";</tag>
+      </item>
+      <item>
+        change de fenêtre
+        <tag>$.mouskie={}; $.mouskie._value="change de fenêtre";</tag>
+      </item>
+      <item>
+        laisse moi seule
+        <tag>$.mouskie={}; $.mouskie._value="laisse moi seule";</tag>
+      </item>
+      <item>
+        diminue le volume
+        <tag>$.mouskie={}; $.mouskie._value="diminue le volume";</tag>
+      </item>
+      <item>
+        oui
+        <tag>$.mouskie={}; $.mouskie._value="oui";</tag>
+      </item>
+      <item>
+        bien sûre
+        <tag>$.mouskie={}; $.mouskie._value="bien sûre";</tag>
+      </item>
+      <item>
+        non
+        <tag>$.mouskie={}; $.mouskie._value="non";</tag>
+      </item>
+      <item>
+        nous avons de la compagnie
+        <tag>$.mouskie={}; $.mouskie._value="nous avons de la compagnie";</tag>
+      </item>
+      <item>
+        pause
+        <tag>$.mouskie={}; $.mouskie._value="pause";</tag>
+      </item>
+      <item>
+        joue ma musique
+        <tag>$.mouskie={}; $.mouskie._value="joue ma musique";</tag>
+      </item>
+      <item>
+        play
+        <tag>$.mouskie={}; $.mouskie._value="play";</tag>
+      </item>
+      <item>
+        next
+        <tag>$.mouskie={}; $.mouskie._value="next";</tag>
+      </item>
+      <item>
+        précédent
+        <tag>$.mouskie={}; $.mouskie._value="précédent";</tag>
+      </item>
+      <item>
+        on a une invité
+        <tag>$.mouskie={}; $.mouskie._value="on a une invité";</tag>
+      </item>
+      <item>
+        quelle heure est-il
+        <tag>$.mouskie={}; $.mouskie._value="quelle heure est-il";</tag>
+      </item>
+      <item>
+        copie
+        <tag>$.mouskie={}; $.mouskie._value="copie";</tag>
+      </item>
+      <item>
+        coller
+        <tag>$.mouskie={}; $.mouskie._value="coller";</tag>
+      </item>
+      <item>
+        internet
+        <tag>$.mouskie={}; $.mouskie._value="internet";</tag>
+      </item>
+      <item>
+        présente toi
+        <tag>$.mouskie={}; $.mouskie._value="présente toi";</tag>
+      </item>
+    </one-of>
+    <ruleref special="GARBAGE" />
+  </rule>
+</grammar>
